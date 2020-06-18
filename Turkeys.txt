@@ -3,3 +3,6 @@ A: Because they are stuffed
 
 Q: Why atre cats good for playing
 A: because they have 9 lives
+
+Q: Why are dogs brown
+A: Because they have brown fur
